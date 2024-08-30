@@ -6,3 +6,6 @@ Fiz fora da função principal os void, CRUD completo, inserir, listar, atualiza
 Um sistema bancario onde tem um gerente que pode altorizar o cliente a realzar funçoes ou não, pode listar o cliente, excluir, atualizar etc..
 O cliente pode sacar, visualizar o saldo, transferir, depositar...
 Você pode eexecutar o codigo em qualquer compilador padrão e as instruções estão claras de como funciona, funcionalidades basicas.
+
+LINK DO VIDEO
+https://youtu.be/jDWA4NJqumg?si=ZrPOXS5mQNakRWC2
